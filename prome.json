@@ -2,6 +2,7 @@
   "PromeApp" : {
     "AppName" : "Super Mario",
     "AppLink" : "https://play.google.com/store/apps/details?id=com.nintendo.zara",
+    "AppIcon" : "https://i.hizliresim.com/oPJBJD.jpg",
     "enableProme" : true
   }
  
