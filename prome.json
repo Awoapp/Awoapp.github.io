@@ -1,0 +1,8 @@
+{
+  "PromeApp" : {
+    "AppName" : "Super Mario",
+    "AppLink" : "https://play.google.com/store/apps/details?id=com.nintendo.zara",
+    "enableProme" : true
+  }
+ 
+}
